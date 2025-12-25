@@ -1,7 +1,7 @@
 [project]
 name = "Comfyui-Prompt-Sorter"
 description = "Interactive button-based trigger word manager with precision weighting and portable collections."
-version = "1.0.1"
+version = "1.0.2"
 license = {text = "MIT"}
 dependencies = []
 
@@ -11,5 +11,6 @@ Repository = "https://github.com/revisionhiep-create/Comfyui-Prompt-Sorter"
 [tool.comfy]
 PublisherId = "revybevy"
 DisplayName = "Comfyui-Prompt-Sorter"
-Icon = "https://raw.githubusercontent.com/revisionhiep-create/comfyui-standard-trigger-words/refs/heads/main/Node%20Icon.png"
+Icon = ""
+
 
